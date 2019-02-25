@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Dicoding Indonesia</string>
+    <string name="name_movies">Nama Movie</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>12 Angry Men</item>
+        <item>The Dark Knight</item>
+        <item>Fight Club</item>
+        <item>Forrest Gump</item>
+        <item>Goodfellas</item>
+        <item>Inception</item>
+        <item>LOTR Return of The King</item>
+        <item>Schindlers List</item>
+        <item>Shawshank Redemption</item>
+        <item>The Good, The Bad and The Ugly</item>
+    </string-array>
+
+    <string-array name="tanggal">
+        <item>April 1957</item>
+        <item>21 July 2008</item>
+        <item>12 November 1999</item>
+        <item>7 October 1994</item>
+        <item>26 October 1990</item>
+        <item>8 July 2010</item>
+        <item>17 December 2003</item>
+        <item>18 February 1994</item>
+        <item>17 February 1995</item>
+        <item>22 August 1968</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>12 Angry Men adalah film drama Amerika Serikat tahun 1957 yang diadaptasi dari seri televisi “Teleplay” dengan nama yang sama, karya Reginald Rose. Ditulis dan diproduksi ulang oleh Rose sendiri dan disutradarai oleh Sidney Lumet. </item>
+        <item>The Dark Knight adalah film superhero kriminal thriller tahun 2008 yang disutradarai oleh Christopher Nolan dan diproduseri oleh Christopher Nolan, Charles Roven dan Emma Thomas. Naskah film ini ditulis oleh Christopher Nolan dan Jonathan Nolan, sementara ceritanya ditulis oleh Christopher Nolan dan David S. Goyer berdasarkan karakter dari DC Comics. Film ini dibintangi oleh Christian Bale, Michael Caine, Heath Ledger, Gary Oldman, Aaron Eckhart, Maggie Gyllenhaal dan Morgan Freeman. </item>
+        <item>Fight Club adalah film Amerika Serikat yang dirilis pada tahun 1999 yang diadaptasi dari novel yang juga berjudul Fight Club karya Chuck Palahniuk. Film ini disutradarai oleh David Fincher dan diperankan oleh Edward Norton (tokoh protagonis dalam film ini yang tanpa nama dan selaku narator). Film yang mengisahkan seorang pria yang terjebak dalam kehidupan sebagai masyarakat pekerja "kerah putih" yang terlibat klub pertarungan ilegal yang dirintis oleh penjual sabun yang bernama Tyler Durden (Brad Pitt). Mereka terjerumus dalam kisah segitiga dengan seorang wanita bernama Marla Singer (Helena Bonham Carter). </item>
+        <item>Forrest Gump adalah film drama Amerika Serikat tahun 1994 berdasarkan novel tahun 1986 karya Winston Groom. Film ini sukses secara komersial dan menjadi film terlaris di Amerika Utara pada tahun perilisannya. Film ini meraih total 13 nominasi Academy Awards dan memenangkan enam diantaranya, termasuk Film Terbaik, Sutradara Terbaik (Robert Zemeckis), dan Aktor Terbaik (Tom Hanks). </item>
+        <item>Goodfellas adalah film kejahatan Amerika Serikat tahun 1990 yang disutradarai oleh Martin Scorsese. Ini adalah film adaptasi dari buku non-fiksi berjudul Wiseguy karya Nicholas Pileggi, yang juga turut serta menulis skenario film ini bersama dengan Scorsese. Film ini menceritakan jatuh bangunnya anggota mafia Henry Hill dan teman-temannya selama periode 1955-1980. </item>
+        <item>Inception adalah film fiksi ilmiah tahun 2010 yang disutradarai oleh Christopher Nolan dan diproduseri oleh Christopher Nolan dan Emma Thomas. Naskah film ini ditulis oleh Christopher Nolan. Film ini dibintangi oleh Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy, Ken Watanabe, Cillian Murphy, Marion Cotillard, Tom Berenger dan Michael Caine. </item>
+        <item>The Lord of the Rings: The Return of the King adalah sebuah film epik fantasi yang disutradarai oleh Peter Jackson novel dari J.R.R. Tolkien. Dirilis pada tanggal 17 Desember 2003, The Lord of the Rings: The Return of the King menjadi salah satu film yang menerima kritik terbanyak dan merupakan film tersukses di box office sepanjang masa. Film ini meraih sebelas Academy Award dari sebelas nominasi, yang kemudian menjadi tandingan dari Titanic dan Ben-Hur untuk peraih terbanyak Academy Awards. Film ini juga memenangkan Film Terbaik Oscar, menjadikan dia satu-satunya film fantasi dalam sejarah yang memenangkan penghargaan ini. Film ini juga menjadi film kedua terlaris di dunia setelah Titanic, tanpa memperhitungkan inflasi. </item>
+        <item>Schindlers List adalah film 1993 berdasarkan novel Schindlers Ark karya Thomas Keneally, yang diterbitkan di Amerika Serikat dengan judul Schindlers List dan kemudian diedarkan kembali di negara-negara Persemakmuran dengan judul itu pula. Filmnya, yang diadaptasi oleh Steven Zaillian dan disutradarai oleh Steven Spielberg, mengisahkan riwayat Oskar Schindler, seorang pengusaha Katolik Jerman yang berperan dalam menyelamatkan nyawa lebih dari seribu orang Yahudi Polandia pada masa Holocaust. Judulnya merujuk kepada daftar nama dari 1.100 orang Yahudi yang dipekerjakan Schindler di pabriknya dan karenanya tidak dikirim ke kamp-kamp konsentrasi. </item>
+        <item>Diadaptasi dari novella karya Stephen King, Rita Hayworth and Shawshank Redemption, film ini menceritakan kisah Andy Dufresne, seorang bankir yang menghabiskan hampir dua puluh tahun di Shawshank State Prison atas pembunuhan istri dan selingkuhannya meski ia mengklaim tidak melakukannya. Di penjara, ia berteman dengan Ellis Boyd "Red" Redding dan dilindung para penjaga setelah kepala penjara memanfaatkannya dalam operasi pencucian uang. </item>
+        <item>Si Baik, si Jelek dan si Buruk (bahasa Italia: Il buono, il brutto, il cattivo) adalah sebuah film epik Koboi Italia tahun 1966 yang disutradarai oleh Sergio Leone, dibintangi Clint Eastwood, Lee Van Cleef, dan Eli Wallach. Skenario film ditulis oleh Age dan Scarpelli, Luciano Vincenzoni dan Leone, berdasarkan cerita oleh Vincenzoni dan Leone. Direktur fotografi Tonino Delli Colli bertanggung jawab sebagai sinematografer layar lebar pada film dan Ennio Morricone menyusun musik latar belakangnya yang terkenal, salah satunya tema utama pada film. Film ini adalah film ketiga dalam Trilogi Dolar mengikuti Segenggam Dolar (1964) dan Untuk Beberapa Dolar Lagi (1965). Film ini adalah co-produksi antara perusahaan di Jerman Barat, Italia, dan Spanyol. </item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/angrymen</item>
+        <item>@drawable/batman</item>
+        <item>@drawable/fightclub</item>
+        <item>@drawable/forrest</item>
+        <item>@drawable/goodfellas</item>
+        <item>@drawable/inception</item>
+        <item>@drawable/returnking</item>
+        <item>@drawable/schindler</item>
+        <item>@drawable/shawshank</item>
+        <item>@drawable/thegood</item>
+    </array>
+</resources>
